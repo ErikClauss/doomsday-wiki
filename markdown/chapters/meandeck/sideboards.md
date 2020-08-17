@@ -53,7 +53,7 @@ your main deck configuration:
  Most sideboard tools at your disposal can be attributed to dealing with
  certain types of opposing interaction or game plans, although in some
  cases, there are slots that fulfil multiple roles. Knowing what weaknesses
- you need to sure up in what match-ups, and when to respect something and
+ you need to shore up in what match-ups, and when to respect something and
  when to accept / ignore it, is a key skill in general deck construction.
  
  The following categories should be consider broad sub-groups and, like
@@ -94,7 +94,30 @@ your main deck configuration:
  Basics/splash colours
  
  
+ ## Sideboarding Strategies
  
+ Below we shall present some primary archetypes of legacy decks that you will likely
+ encounter in the meta and present some general sideboarding theories to follow when
+ facing them. These have been crowd-sourced from some well established players with
+ plenty of experience behind them.
+ 
+ The archetypes will be listed with some key deck examples of the archetype.
+ Hopefully, even if the metagame changes, these high level archetypes will still
+ be applicable.
+ 
+ ### Graveyard Strategies
+ 
+ ### Blue-based Control
+ 
+ ### Blue-based Midrange
+ 
+ ### Delver Strategies
+ 
+ ### Non-blue Midrange
+ 
+ ### Fast Combo
+ 
+ ### Stompy Strategies
  
  ------------------------
  
