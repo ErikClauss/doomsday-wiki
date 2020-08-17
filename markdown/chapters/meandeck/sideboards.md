@@ -92,3 +92,124 @@ your main deck configuration:
  Carpet
  Other lands
  Basics/splash colours
+ 
+ 
+ 
+ 
+ ------------------------
+ 
+ BUG Doomsday - Sideboarding
+Erik Clauss
+
+
+1 Tropical Island
+2 Island
+4 Lotus Petal
+1 Lion's Eye Diamond
+4 Force of Will
+1 Edge of Autumn
+4 Doomsday
+1 Swamp
+4 Polluted Delta
+4 Ponder
+4 Preordain
+4 Misty Rainforest
+4 Brainstorm
+4 Dark Ritual
+3 Underground Sea
+3 Duress
+1 Predict
+2 Street Wraith
+4 Daze
+1 Thassa's Oracle
+1 Cavern of Souls
+1 Ideas Unbound
+1 Bayou
+1 Lim-Dûl's Vault
+
+3 Abrupt Decay
+3 Carpet of Flowers
+2 Flusterstorm
+1 Massacre
+4 Leyline of the Void
+2 Veil of Summer
+
+
+
+VS Delver
+
+⁃	-4 FoW, -2 SW, -1 LDV
+⁃	+2 Fluster, +2 VoS, +3 Carpet
+
+⁃	Try to race their threats and be a fast and resilient combo deck. 
+⁃	Rather than bringing decays/push etc and trying to play a longer game (playing lands to nullify their dazes/pierce etc) I like to be fast. Play all 4 LP main deck and bring carpets from the sideboard to play around their soft counter magic. Upgrade FoW to Fluster and VoS. (I could see keeping some number of FoWs but we end up with too much interaction and they’re the weakest.)
+⁃	Cut all the cards that make you lose life (no, not DD..) Street Wraith, LDV and Thoughtseize.
+⁃	If you can - try to make an early PTT pile with Cavern of Souls.
+⁃	Don’t remove LED. You are losing access to a lot of piles by cutting it and you gain very little. This matchup is often played on tiny margins and LED will help you in situations where you don’t have access to a lot of resources.
+
+
+VS Chalice
+
+-3 Dur
++3 AD
+
+⁃	Don’t keep hands that are slow and have too many cantrips. You are looking for Doomsday and mana to cast it as soon as possible.
+⁃	Discard isn’t very effective unless you are on the play and have it in your opening hand. Leave it in the sideboard. 
+⁃	I like to keep Cavern of Souls in the deck as a answer to CotV @2. It’s very effective and easier to use in piles than Abrupt Decay.
+⁃	Be aware of Mindbreak Trap.
+
+
+VS Show & Tell
+
+-1 LED, -1 LP, -1 LDV, -1 X 
++2 Fluster, +2 VoS
+
+⁃	They are playing a A+B(+C) combo deck and our combo is just a single card. They are more likely to have redundant cards in their hand and worse top decks.
+⁃	Don’t be the first to pull the trigger unless you’re very sure that you can win the fight. If you force a DD through and pass the turn you must also be able to fight a combo attempt on their turn.
+⁃	You will often pass the turn after you resolved Doomsday. It you have the ability to draw into the pile and put TO in your hand, that’s great. Put it into play if your opponent casts Show and Tell.
+⁃	I like keeping all the cyclers in the deck to be able to cycle into a FoW on top of the DD pile.
+⁃	Generally you can play a longer game but if they are bringing Boseiju you have to be faster.
+⁃	Be careful when playing discard spells, sometimes they splash for VoS
+
+
+VS Thalia decks
+
+-1 CoS, -3 Dur
++1 Massacre, +3 AD
+
+⁃	Don’t keep hands that are slow and have too many cantrips. You are looking for Doomsday and mana to cast it as soon as possible.
+⁃	If you’re passing the turn make sure to put enough mana in the pile. Think about Thalia, Wasteland, Rishadan Port or a vialed in Flickerwhisp.
+⁃	Think about which hate bears matter in the current game state. If you can beat a Ethersworn Cannonist or Revoker - save your counterspell for something that matters.
+⁃	Massacre is a great card to put into piles since it’s so cheap. It is useful especially when passing the turn.
+
+
+VS Storm
+
+-1 CoS, -1 LP, -1 LDV, -1 SW
++2 Fluster, +0-2 VoS, +0-2 AD
+
+⁃	Against TES I wouldn’t bring Veil of Summer. Most TES lists doesn’t play discard and they can kill you with Grapeshot. I would maybe consider Abrupt Decay for Defense Grid and possibly Hope of Ghirapur.
+⁃	If you’re passing the turn be aware that it doesn’t take much to kill you with Tendrils of Agony or Grapeshot. See if you can make a pile that doesn’t die to EoE from TES.
+
+
+VS Control
+
+-1 LED, -2 LP, -2 DR, -2 Daze, -1 EoA, -1 LDV, -1 SW
++2 Fluster, +2 VoS, +0-3 Carpet, +0-3 AD
+
+⁃	There are many different builds of control decks and you’re going to adjust based on what you see. 
+⁃	Carpet gets worse when they can play around it with Astrolabe and it’s terrible against Leovold.
+⁃	One of the scarier early plays from them are Sylvan Library and Counterbalance, make sure to have an answer for that.
+⁃	You tend to be able to pass the turn multiple times since they don’t pressure your life total much.
+⁃	A PTT pile with CoS is difficult for them to interact with. Be aware of cards like Surgical Extraction, Assassins Trophy (destroying a land), Dack Fayden and Predict.
+
+
+VS Hogaak
+
+-1 CoS, -2 Pre, -3 Dur, -1 IU, -1 SW, 
++4 LotV, +2 VoS, +0-2 AD
+
+⁃	I mulligan aggressively for either a fast turn 1-2 combo or a Leyline.
+⁃	We can bring AD for Altar of Dementia and Hedron Crab. If they’re on Jund I might not have AD on the play.
+
+
